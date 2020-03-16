@@ -1,0 +1,19 @@
+{
+    "name": "Resume",
+    "short_name": "CV",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Resume app.",
+    "icons": [{
+            "src": "img/resume-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/resume-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
